@@ -2,7 +2,7 @@
 title: April Burton
 email: burtonapril303@gmail.com
 url: https://Adburt49/cybersecurity.portfolio
-description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
+description: "Portfolio of cybersecurity work samples for a Entry-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
 meta_author: Burton April
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com
   - title: github
     url: https://github.com/coachbeau
 
@@ -49,7 +49,7 @@ email:
   email-url: mailto:burtonapril303@gmail.com
 
 # Postal address (add as many lines as necessary)
-location:
+location:105 N. Killarney ln.
   - line: Richmond, Kentucky
 
 # Credits content
